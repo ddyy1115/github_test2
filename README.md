@@ -30,7 +30,7 @@
 **강조2**
 ~~중간선~~
 
----
+```
 def print():
    asdsadsad wq eqw 
----
+```
