@@ -19,7 +19,7 @@
 
 [google](https://google.com)
 
-![alt text}(https://obj-sg.thewiki.kr/data/32ecb0a820ec9790ec96b4ec868ced9484ed8ab820eab0a4eb9faceba6ac20eb8c80ebacb820ec82aceca7842e6a7067.jpg)
+![alt_text}(https://obj-sg.thewiki.kr/data/32ecb0a820ec9790ec96b4ec868ced9484ed8ab820eab0a4eb9faceba6ac20eb8c80ebacb820ec82aceca7842e6a7067.jpg)
 
 첫번째 
 ***
